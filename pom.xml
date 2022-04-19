@@ -14,7 +14,7 @@
 	<name>endpointlogger</name>
 	<description>Just log a request from a specific endpoint</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
