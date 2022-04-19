@@ -1,3 +1,9 @@
+logging:
+  level:
+    ROOT: info
 management:
-  auditevents:
-    enabled: true
+  endpoints:
+    web:
+      exposure:
+        include:
+          - '*'
