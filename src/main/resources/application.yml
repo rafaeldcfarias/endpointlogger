@@ -1,0 +1,3 @@
+management:
+  auditevents:
+    enabled: true
